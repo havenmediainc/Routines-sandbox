@@ -341,11 +341,13 @@ def build_pdf():
     story.append(Spacer(1, 0.12 * inch))
     story.append(Paragraph("Doctor Offices", ParagraphStyle(
         "ct2", fontName="Helvetica-Bold", fontSize=32,
-        textColor=WHITE, alignment=TA_CENTER)))
+        leading=40, textColor=WHITE, alignment=TA_CENTER,
+        spaceAfter=14)))
     story.append(Paragraph("Low Social Media &amp; Web Presence", ParagraphStyle(
         "ct3", fontName="Helvetica-Bold", fontSize=20,
-        textColor=colors.HexColor("#B0C4DE"), alignment=TA_CENTER)))
-    story.append(Spacer(1, 0.18 * inch))
+        leading=26, textColor=colors.HexColor("#B0C4DE"), alignment=TA_CENTER,
+        spaceAfter=6)))
+    story.append(Spacer(1, 0.22 * inch))
     story.append(Paragraph("Lead Prospecting Report", ParagraphStyle(
         "ct4", fontName="Helvetica", fontSize=14,
         textColor=colors.HexColor("#8FA3BF"), alignment=TA_CENTER)))
