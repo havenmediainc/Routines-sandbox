@@ -1,0 +1,34 @@
+timestamp,practice_name,email,draft_id,status,notes
+2026-06-20T00:00:00Z,Page Family Dental Group,frontdesk@pagefdg.com,r6178522264699658919,DRAFT_CREATED,MEDIUM tier — Facebook only
+2026-06-20T00:00:00Z,BayView Dental Arts,office@bayviewdentalarts.com,r6992656009484729390,DRAFT_CREATED,MEDIUM tier — Facebook only; cosmetic practice
+2026-06-20T00:00:00Z,Naples Premier Dentistry,naplespremier@mydentalmail.com,r-3907943725001511005,DRAFT_CREATED,MEDIUM tier — dormant Instagram (39 followers)
+2026-06-20T00:00:00Z,Torrens Dental Care,info@torrensdental.com,r2008052374348324480,DRAFT_CREATED,MEDIUM tier — 246 posts / 76 followers
+2026-06-20T00:00:00Z,Massa Dental Center,office@massadental.com,r8939001130897931135,DRAFT_CREATED,LOW tier — 25-year cosmetic institution
+2026-06-20T00:00:00Z,Gulfside Dental,gulfsidedentalnaplesfl@gmail.com,r7388302960415939681,DRAFT_CREATED,LOW tier — 1471 posts / 508 followers
+2026-06-20T00:00:00Z,Top Dental Designs,contact@topdentaldesigns.com,r5782193892185576022,DRAFT_CREATED,LOW tier — active on 3 platforms
+2026-06-20T00:00:00Z,Cosmetic & Implant Dentistry of Naples,care@dentistryofnaples.com,r520940678687362942,DRAFT_CREATED,LOW tier — active on 3 platforms
+2026-06-20T00:00:00Z,Galdos Dental,contact@galdosdental.com,r-9194751217056471287,DRAFT_CREATED,LOW tier — active on 3 platforms
+SKIPPED,Davey Family Dentistry,N/A,N/A,NO_EMAIL,HIGH tier — no email in data
+SKIPPED,Naples Dental Professionals,N/A,N/A,NO_EMAIL,HIGH tier — no email in data
+SKIPPED,Dental Specialty Center of Naples,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Naples Dental Care,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,The Dentistry in Naples,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Naples Smiles Dentistry,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Naples Bay Dental Group,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Dental Care at Naples Lakes,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Cardinale Dentistry,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Bellaire Bay Dental Care,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Orangetree Dental Care,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Mission Hills Dentistry,N/A,N/A,NO_EMAIL,MEDIUM tier — no email in data
+SKIPPED,Gateway of Naples Dental,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Naples Family Dentist,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Naples Dental and Wellness Center,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,M&R Dental Family,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Dentists of South Naples,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Complete Dental Care of Naples,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Naples Modern Dentistry,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Specialists in Implant Dentistry,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Pelican Bay Family Dental,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Caring Dentistry of Naples,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Fantastic Dental Arts,N/A,N/A,NO_EMAIL,LOW tier — no email in data
+SKIPPED,Naples Dental Studio,N/A,N/A,NO_EMAIL,LOW tier — no email in data
